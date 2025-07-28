@@ -1,4 +1,4 @@
-name: L1 ap
+name: l1 app
 on:
   push:
     branches: [main]
